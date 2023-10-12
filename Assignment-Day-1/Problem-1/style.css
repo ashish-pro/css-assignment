@@ -1,0 +1,28 @@
+.container{
+    border-radius: 15px;
+    background-color: #65e892;
+    width: 500px;
+    margin: 30px auto;
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.container h1{
+    font-size: 64px;
+    font-weight: 600;
+
+}
+
+.container p{
+    font-size: 18px;
+}
+
+.btn{
+    padding: 16px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 900;
+    border: none;
+    background-color: white;
+}
